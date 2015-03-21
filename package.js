@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'tomi:upload-server',
+  name: 'grabthecode:upload-server',
   summary: 'Upload server for Meteor. Allows to save and serve files (Breaking changes from 1.0.3)',
   version: '1.2.2',
-  git: 'https://github.com/tomitrescak/meteor-tomi-upload-server.git'
+  git: 'https://github.com/grabcode/meteor-tomi-upload-server.git'
 });
 
 Package.onUse(function(api) {
